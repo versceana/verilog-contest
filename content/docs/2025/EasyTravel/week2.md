@@ -89,11 +89,11 @@ The key achievement in the DLS part of the project was the collection and prepar
 
 ### Emil Goryachih
 
-- Active participation in the backend setup: Contributing to the initial configuration of the backend infrastructure, including the database configuration (PostgreSQL) and the implementation of JWT-based authorization, laying the foundation for further API development.
+- Active participation in the backend setup: Contributing to the initial configuration of the backend infrastructure, including the database configuration (PostgreSQL) and the implementation of JWT-based authorization, laying the foundation for further API development. (https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/c9c9514ecc7aa6b7183170722faacd211dbdc37b)
 
-- Collection and primary processing of the POI dataset for the DLS system: Complete completion of collection and primary processing of the dataset of points of interest, including filtering of irrelevant objects and data enrichment from Wikipedia/Wikidata.
+- Collection and primary processing of the POI dataset for the DLS system: Complete completion of collection and primary processing of the dataset of points of interest, including filtering of irrelevant objects and data enrichment from Wikipedia/Wikidata. (https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/86465bd60f7482d45ceae77822b2e0648c8c037d)
 
-- Setting up Teamwork Tools: Participate in setting up GitHub Projects for effective task and schedule management.
+- Setting up Teamwork Tools: Participate in setting up GitHub Projects for effective task and schedule management. (https://github.com/orgs/IU-Capstone-Project-2025/projects/16/views/1)
 
 - Research and testing of methods for enriching POI text descriptions (Wikipedia/Wikidata, LLM).
 
