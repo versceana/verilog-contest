@@ -34,7 +34,7 @@ title: "Week #2"
 - Maintainability: The project code should be clean, modular, and well documented to facilitate further development, testing, and support.
 ### Prioritized backlog
 
-*(Publicly accessible link OR screenshots OR table) of your prioritized backlog (Kanban board)*
+https://github.com/orgs/IU-Capstone-Project-2025/projects/16/views/1
 
 ## Project specific progress
 
@@ -106,9 +106,6 @@ The key achievement in the DLS part of the project was the collection and prepar
 - Wired state management (Redux Toolkit) and API service layer for real-time search and filtering.
 - Ensured responsive, accessible design across devices.
 - Wrote unit tests for critical components (Jest & React Testing Library).
-
-
-### Saidaziz Kadirov
 
 ## Plan for Next Week
 
