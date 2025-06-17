@@ -2,8 +2,6 @@
 
 # Requirements Elaboration
 
----
-
 ## User stories with acceptance criterias
 
 1. As a student, I want to login to the system using Innopolis University SSO, so that I can …
@@ -69,7 +67,6 @@
 
 # Backlog
 
----
 
 [🔗 Link to prioritized backlog](https://team-sync-capstone.atlassian.net/jira/software/projects/TS/boards/1?atlOrigin=eyJpIjoiMzBkNTBiMTQ3MWRmNDU1YmJhMzJhZDAxZTE5MjM3NmUiLCJwIjoiaiJ9) 
 
@@ -79,44 +76,41 @@ We have three basic columns in our  board: **“To Do”**, **“In Progress”*
 
 # Reflection after meeting with TA
 
----
 
 
 # Reflection after meeting with Alexey Potemkin
 
----
 
-- 
 
 # **Project specific progress**
 
----
+
 
 ## Design
 
----
+
 
 ## Frontend
 
----
+
 
 Links to PRs/Issues for skeleton pages/components.
 
 ## Backend
 
----
+
 
 Links to PRs/Issues for initial endpoints, link to API documentation.
 
 ## ML
 
----
+
 
 Summary of research, link to dataset or data collection plan.
 
 # **Weekly commitments**
 
----
+
 
 ## **Individual contribution of each participant**
 
@@ -131,7 +125,7 @@ Summary of research, link to dataset or data collection plan.
 
 ## **Plan for Next Week**
 
-*...*
+
 
 **Confirmation of the code's operability**
 
