@@ -92,7 +92,7 @@ Students of Innopolis University currently face the inefficiencies and time-cons
 4. As a student, I want to apply to projects that match my interests, so that I can participate in projects relevant to my skills and goals.
 5. As a project owner, I want to accept or reject team applications and manage my team members, so that I can control who joins my project and maintain a good team structure.
 6. As a student, I want to see suggestions and filters when browsing projects (similarity), so that I can efficiently choose which projects to join.
-7. As a professor, I want to make a page only for my course, so that I can manage the team formation between my students.
+7. As a teacher, I want to make a page only for my course, so that I can manage the team formation between my students.
 
 ## **Main Functionalities**
 
