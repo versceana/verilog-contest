@@ -40,7 +40,25 @@ title: "Week #2"
 
 ### Frontend
 
-*...*
+- **Project setup & scaffolding**  
+  Initialized the frontend codebase using Next.js, configured TypeScript support, and integrated Tailwind CSS for utility-first styling.
+
+- **Core UI components**
+  - **Search & filters**: Built a reusable `SearchBar` component with autocomplete, and a `FilterPanel` for type, rating, amenities, and “open now” toggles.
+  - **POI list & detail**: Developed `PoiList` and `PoiCard` components to display results; created a `PoiDetailModal` for extended information.
+  - **Map integration**: Integrated React Leaflet to render POI locations on an interactive map, synchronized with list selections.
+
+- **State management & API integration**
+  - Configured Redux Toolkit slices for search parameters and POI results.
+  - Wired up API service layer (using Axios) to backend stubs for fetching and filtering POIs.
+
+- **Routing & auth flows**
+  - Set up Next.js dynamic routes for POI detail pages.
+  - Implemented authentication UI: login, registration, and protected routes using JWT tokens.
+
+- **Responsive design & accessibility**
+  - Ensured mobile-first layouts, tested across breakpoints.
+  - Added ARIA attributes and keyboard navigation to key components.
 
 ### Backend
 
@@ -82,6 +100,13 @@ The key achievement in the DLS part of the project was the collection and prepar
 - Analyzing the collected data and preparing it for vectorization.
 
 ### Vlad Galkin
+- Leading the frontend architecture: set up the Next.js project with TypeScript and Tailwind CSS.
+- Implemented core UI components including the search bar with autocomplete, filter panel, POI list and detail modal.
+- Integrated interactive map visualization using React Leaflet.
+- Wired state management (Redux Toolkit) and API service layer for real-time search and filtering.
+- Ensured responsive, accessible design across devices.
+- Wrote unit tests for critical components (Jest & React Testing Library).
+
 
 ### Saidaziz Kadirov
 
@@ -100,6 +125,20 @@ The key achievement in the DLS part of the project was the collection and prepar
     - Develop and implement the first API endpoints for receiving and filtering POIs.
 
     - Start integrating the backend with the DLS part to get vectorized data.
+
+- **Frontend**:
+
+  - Refine and polish core UI components: enhance search bar UX, improve filter panel animations, and optimize PoiDetailModal transitions.
+  
+  - Complete integration between map and list: ensure clicking a map marker highlights the corresponding POI card, and vice versa.
+  
+  - Implement clustering of POI markers on the map for better performance and usability in dense areas.
+  
+  - Hook up real API endpoints once available: replace stub data with live POI fetches, and handle loading and error states gracefully.
+  
+  - Add end-to-end tests for main workflows (search, filter, POI detail) using Cypress.
+  
+  - Improve mobile navigation: build a responsive drawer menu and a bottom tab bar for quick access to search, favorites, and profile.
 
 ## Confirmation of the code's operability
 
