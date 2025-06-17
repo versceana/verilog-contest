@@ -105,8 +105,12 @@ The key achievement in the DLS part of the project was the collection and prepar
 - Integrated interactive map visualization using React Leaflet.
 - Wired state management (Redux Toolkit) and API service layer for real-time search and filtering.
 - Ensured responsive, accessible design across devices.
-- Wrote unit tests for critical components (Jest & React Testing Library).
 
+### Saidaziz Kadirov
+- Wrote unit tests for critical components (Jest & React Testing Library).
+- Started DevOps developement
+- Organized team meets
+- Checked report and team contributions 
 ## Plan for Next Week
 
 - **DLS**:
