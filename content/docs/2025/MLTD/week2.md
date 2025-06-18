@@ -1,5 +1,4 @@
 # Week 2
-## MLTD
 
 ## Detailed Requirements Elaboration
 
@@ -11,7 +10,7 @@ The API should be able to recieve files from users through a web interface or a 
 ### Machine learning models and Data pre-processing
 See ML in project progress for the requirements of data-preprocessing and models.
 
-## Prioritized backlog
+### Prioritized backlog
 [Kanban board](https://tree.taiga.io/project/bulatfakhrutdinov-mltd/kanban)
 
 ## Project progress
@@ -42,7 +41,7 @@ Bulat:
 - Created [backlog](https://tree.taiga.io/project/bulatfakhrutdinov-mltd/kanban).
 - Defined set of ML features for MLTD.
 
-## Plan for next week
+## Plans for next week
 * [Preprocess log data: cleaning, feature extraction](https://tree.taiga.io/project/bulatfakhrutdinov-mltd/us/2?kanban-status=10310817)
 * [Research and select ML model: supervised vs. unsupervised](https://tree.taiga.io/project/bulatfakhrutdinov-mltd/us/1?kanban-status=10310817)
 * [Train initial model on sample threat datasets](https://tree.taiga.io/project/bulatfakhrutdinov-mltd/us/3?kanban-status=10310817)
