@@ -23,7 +23,7 @@ title: "Week #2"
 
 ### Prioritized backlog
 
-![Backlog](week2_backlogs.jpg)
+![Backlog](https://github.com/IU-Capstone-Project-2025/ProjectFly/blob/main/docs/reports/week2_backlogs.jpg)
 
 More about that check [here (Individual contribution of each participant)](#individual-contribution-of-each-participant)
 
