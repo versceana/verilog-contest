@@ -94,10 +94,13 @@ https://github.com/IU-Capstone-Project-2025/gym-genius/pull/11
 
 **Aleksandr Mihailov**
 
-1) Decided whether to use cloud-based AI models or lightweight local ones.
-2) Researched a cloud-based AI models services and pick model for application
-3) Thought of where to use AI solutions in Mobile App
+- Research Go docs
+- Research Fiber, Gorm libraries for backend
+- Decided whether to use cloud-based AI models or lightweight local ones.
+- Researched a cloud-based AI models services and pick model for application
+- Thought of where to use AI solutions in Mobile App
 
+https://github.com/IU-Capstone-Project-2025/gym-genius/pull/12
 
 ## Plan for Next Week
 
