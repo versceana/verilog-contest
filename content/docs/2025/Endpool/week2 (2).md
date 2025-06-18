@@ -9,94 +9,90 @@ title: "Week #2"
 ### Functional Requirements
 
 #### 1. Kitchen Storage Management
-1.1. The system shall allow users to manually add ingredients to their kitchen storage by entering ingredient name   
-     
+1.1. The system shall allow users to manually add ingredients to their kitchen storage by:
+   - Entering ingredient name
 
-1.2. The system shall allow users to remove ingredients by deleting items individually   
+1.2. The system shall allow users to remove ingredients by:
+   - Deleting items individually
 
-1.3. The system shall display a real-time inventory of available ingredients.  
+1.3. The system shall display a real-time inventory of available ingredients.
 
 
-Note: with decided to go from quantity management to not push users to use scales all the time. So if ingredient in the storage, it means it is enough for majority of reciepies. If after cooking some ingridients are not enough for future usages, user should be offered to  to delete it from storage.
+Note: with decided to go from quantity management to not push users to use scales all the time. So if ingredient in the storage, it means it is enough for mahority of reciepies. If after cooking some ingridients are not enough for future usages, user should be offered to delete it from the storage.
 
 ---
 
 #### 2. Grocery Receipt Scanning
-2.1. The system shall allow users to upload images/scans of grocery receipts for processing.  
+2.1. The system shall allow users to upload images/scans of grocery receipts for processing.
 
-2.2. The system shall extract ingredient names from receipts and auto-add them to the kitchen storage.  
+2.2. The system shall extract ingredient names and quantities from receipts and auto-add them to the kitchen storage.
 
-2.3. The system shall prompt users to confirm/correct extracted data before finalizing updates.  
+2.3. The system shall prompt users to confirm/correct extracted data before finalizing updates.
 
 ---
 
 #### 3. Automated Grocery List Generation
-3.1. The system shall allow users to select recipes they wish to cook.  
+3.1. The system shall allow users to select recipes they wish to cook.
 
-3.2. The system shall compare recipe ingredients against the user's kitchen storage and identify missing items.  
+3.2. The system shall compare recipe ingredients against the user's kitchen storage and identify missing items.
 
-3.3. The system shall generate a grocery list containing missing ingredients  
+3.3. The system shall generate a grocery list containing missing ingredients
 
-3.4. The system shall allow manual edits to the grocery list.  
+3.4. The system shall allow manual edits to the grocery list (e.g., adding non-recipe items).
 
 
 ---
 
 #### 4. Recipe Suggestions Based on Available Ingredients
-4.1. The system shall analyze the user's kitchen storage and suggest recipes that:  
-   - Can be made entirely with available ingredients.  
-   - Require minimal additional ingredients (configurable threshold).  
+4.1. The system shall analyze the user's kitchen storage and suggest recipes that:
+   - Can be made entirely with available ingredients.
+   - Require minimal additional ingredients (configurable threshold).
 
-4.2. The system shall allow filtering recipe suggestions by dietary preferences and cooking time   
-
-
-
+4.2. The system shall allow filtering recipe suggestions by dietary preferences and cooking time
 
 ---
 
 #### 5. Recipe and Preference Customization
-5.1. The system shall allow users to modify existing recipes by adding/removing ingredients  
+5.1. The system shall allow users to copy and modify existing recipes by adding/removing ingredients
 
 5.2. The system shall let users create and save new custom recipes.
 
-5.3. The system shall allow users to set dietary preferences/allergies to filter suggestions.  
+5.3. The system shall allow users to set dietary preferences/allergies to filter suggestions.
 
 ---
 
 ### Future Features (If Time Permits)
 
 #### 6. Computer Vision Ingredient Addition
-6.1. The system shall allow users to point their phone camera at ingredients to to automatically detect ingredient names via computer vision and auto-fill storage entries.  
+6.1. The system shall allow users to point their phone camera at ingredients to to automatically detect ingredient names via computer vision and auto-fill storage entries.
 
-6.2. The system shall support scanning multiple items on a kitchen counter.  
+6.2. The system shall support scanning multiple items on a kitchen counter.
 
-6.3. The system shall provide fallback to manual entry if detection fails.  
+6.3. The system shall provide fallback to manual entry if detection fails.
 
 ---
 
 #### 7. Interactive Recipe Mode
 7.1. The system shall provide a step-by-step cooking mode where with embeded timers.
 
-7.2. The system shall allow pausing/resuming recipes and tracking progress.  
+7.2. The system shall allow pausing/resuming recipes and tracking progress.
 
 
 ---
 
 ### Non-Functional Requirements
-- **Performance:** Inventory updates and suggestions load in <2 seconds.  
-- **Accuracy:** QR-code scanning and computer vision achieve >90% detection rate for common items.  
+- **Performance:** Inventory updates and suggestions load in <2 seconds.
+- **Accuracy:** QR-code scanning and computer vision achieve >90% detection rate for common items.
 - **Usability:** The user interface should be intuitive, providing positive experience.
 - **Maintainability:** The project code should be clean, modular, and well documented to facilitate further development, testing, and support.
 
-
-
-
-
-
+---
 
 ### Prioritized backlog
 
 https://github.com/orgs/Endpool/projects/2/views/1?layout=board
+
+---
 
 ## Project specific progress
 
@@ -104,18 +100,18 @@ https://github.com/orgs/Endpool/projects/2/views/1?layout=board
 
 #### 1. General user flow was designed
 #### 2. An interface menu for viewing information about a specific storage and its users was created
-#### 3. Functions handling addition and deletion of users were implemented 
+#### 3. Functions handling addition and deletion of users were implemented
 #### 4. The menu for selecting, deleting and creating existing storages was implemented
-#### 5. Development infrastructure was improved  
+#### 5. Development infrastructure was improved
 
 ### Backend
 
 #### 1. Endpoints for mvp version were defined
-#### 2. PostgreSQL tables were defined  
+#### 2. PostgreSQL tables were defined
 
 ### DevOps
 
-#### 1. Optimised building of backend service 
+#### 1. Optimised building of backend service
 #### 2. Configured hosting server and implemented continuous deployment via Github Actions
 #### 3. Added cashing to C++ building dependencies in CD pipeline
 
@@ -134,7 +130,7 @@ https://github.com/orgs/Endpool/projects/2/views/1?layout=board
 
 ## Plan for Next Week
 
-The main goal is to create all the endpoints required for mvp, configure the database and add connect backend for all endpoints on frontend. Also it is important to set up linting and basic testing in ci pipeline. 
+The main goal is to create all the endpoints required for mvp, configure the database and add connect backend for all endpoints on frontend. Also it is important to set up linting and basic testing in ci pipeline.
 
 
 
