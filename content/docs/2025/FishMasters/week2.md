@@ -127,8 +127,13 @@ Adel Gaznanov:
 
 ## Plan for Next Week
 
-*...*
-
+ - Prepare project for mvp
+ - Connect frontend and backend
+ - Add new database entities and relations
+ - Make an update version on design
+ - Build test version of ML side of project
+ - Add name and picture to the profile
+ - All other things to meet defined MVP requirments
 ## Confirmation of the code's operability
 
 We confirm that the code in the main branch:
