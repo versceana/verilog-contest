@@ -38,7 +38,7 @@
 
 ## Requirements
 
-Based on the user stories and marketing analysis, for the next weeks, we define these requirements:
+ We considered all the user stories and marking those that are either difficult to implement or not necessary, and based on this we define this requirements:
 
 - Account creation and data saving
 - Calendar with tasks (basic CRUD functions)
