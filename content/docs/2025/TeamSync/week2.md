@@ -87,10 +87,10 @@ We have three basic columns in our  board: **“To Do”**, **“In Progress”*
 
 ---
 
-- We need to schedule a meeting with Alexey ****Potyomkin to discuss potential collaboration since he is planning to do almost the same service for our university
+- We need to schedule a meeting with Alexey Potyomkin to discuss potential collaboration since he is planning to do almost the same service for our university
 - We need to research Microsoft Entra capabilities to make login secure
 
-# Reflection after meeting with Alexey ****Potyomkin
+# Reflection after meeting with Alexey Potyomkin
 
 ---
 
@@ -105,7 +105,6 @@ We have three basic columns in our  board: **“To Do”**, **“In Progress”*
 - We will initiate a CustDev process to validate assumptions and gather structured feedback from real users (students, teachers).
 - Based on collected insights, we’ll formulate and prioritize hypotheses for improvement and potential product extensions.
 
----
 
 ### **3.Stakeholder alignment**
 
@@ -114,7 +113,6 @@ Schedule conversations with the following stakeholders to align the platform wit
 - **Marko Pezer** – regarding team distribution in SWP (Software Project) coordination.
 - **Mansur Khazeev** – to explore potential involvement in industrial projects and corporate collaboration scenarios.
 
----
 
 ### **4.Integration with digital profile ecosystem**
 
@@ -123,7 +121,6 @@ Schedule conversations with the following stakeholders to align the platform wit
 
 # **Project specific progress**
 
----
 
 ## Design
 
