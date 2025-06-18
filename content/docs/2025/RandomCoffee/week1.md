@@ -98,15 +98,26 @@ After analyzing both ideas, we chose to implement *Random Coffee* because it add
 
 **Initial Scope (What's IN for the MVP)**  
 	Simple Telegram Mini App with the following features:  
-	•	User registration (name, age, description)  
-    •	User-specified tags  
-    •	Simple matchmaking algorithm  
+	•	User registration (name, age, description, tags)  
+    •	Tags are chosen from tag database  
+    •	Matchmaking algorithm based on tags using Evolutionary Algorithms  
     •	Weekly sending of messages with an offer to meet with a suitable user  
 
-**What's OUT for the MVP**  
-	•	Tags that will be suggested by the ML algorithm
-	•	Customized user profile fields for different types of organizations (under the discussion)
+**What's OUT for the MVP but IN for the Final version**  
+	•	User can add custom tags, that possibly will be validated by ML algorithm  
+	•	User chooses each week whether he participates or not.  
+	•	User chooses his goal for the week: "Share experience", "Gain knowledge", "Just chat"  
+	•	User chooses whether to find partner with similar or different interests  
+	•	Edit page for the user  
+	•	Matchmaking history is stored, so the user does not meet the same person twice  
+	•	Tags autocompletion ("Jav" -> "Java", "JavaScript")  
 
+**Possible, but not guaranteed features**  
+	•	The rating system (user that has better rating gets better match)  
+	•	Tags suggestion (If the user has selected "Spring Boot" tag -> "Backend", "Java" tags will be suggested by ML)  
+	•	Customized user profile fields for different types of organizations (for example, course/track for the universities)  
+	•	User can "Rematch" - algorithm will find another match for this week  
+	•	User chooses the priority topic for this week  
     
 ## Tech-stack
 
