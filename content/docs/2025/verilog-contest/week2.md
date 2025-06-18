@@ -32,7 +32,7 @@ Now we have basic design of pages: auth, personal account, contest list and desc
 
 ### Backend
 
-We have CRUD for all backend service.
+We have CRUD for users and tasks backend service and Swagger spec.
 
 ### DevOps
 We have Dockerfiles, docker-compose with GoTrue, CI/CD.
@@ -54,7 +54,7 @@ We have Dockerfiles, docker-compose with GoTrue, CI/CD.
 
 ## Plan for Next Week
 
-At week 3 we plan to make auth in backend and frontend, to start Kuber setting up and after this to check CI/CD. Service need to provide login and sign up, to solve and send contest's solution, but without testing it by system.
+We plan to deploy out MVP with login and sign up, auth in backend and frontend, with solving and sending contest's solution without result of tests, to start Kuber setting up and after this to check CI/CD.
 
 ## Confirmation of the code's operability
 
