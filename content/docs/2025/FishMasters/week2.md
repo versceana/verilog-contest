@@ -44,7 +44,7 @@ ML:
 
 ### Prioritized backlog
 
-[Link to Github](https://github.com/orgs/IU-Capstone-Project-2025/projects/19/views/)
+[Link to Github](https://github.com/orgs/IU-Capstone-Project-2025/projects/19/)
 
 Backlog for week 3 will be created soon
 ## Project specific progress
