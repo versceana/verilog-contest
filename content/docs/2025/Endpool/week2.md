@@ -18,7 +18,7 @@ title: "Week #2"
 1.3. The system shall display a real-time inventory of available ingredients.
 
 
-Note: with decided to go from quantity management to not push users to use scales all the time. So if ingredient in the storage, it means it is enough for mahority of reciepies. If after cooking some ingridients are not enough for future usages, user should be offered to delete it from the storage.
+Note: we with decided to go from quantity management to not push users to use scales all the time. So if ingredient in the storage, it means it is enough for mahority of reciepies. If after cooking some ingridients are not enough for future usages, user should be offered to delete it from the storage.
 
 ---
 
