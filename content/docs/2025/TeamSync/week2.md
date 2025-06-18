@@ -138,7 +138,7 @@ During last week Sign-Up process (adding Roles, Skills, Project position, and Pe
 
 ---
 
-This week, two skeleton pages were made (splash and home) and a simple route was set up between them. There weren’t many significant issues with the front end of the project, the only issue was dynamic page layouts. The design needs to be appended with new mobile layouts, dropdown menus and hover button styles in order to proceed. 
+This week, the basic frontend structure was made [TS-28], two skeleton pages were made (splash and home) [TS-29] and a simple route was set up between them. There weren’t many significant issues with the front end of the project, the only issue was dynamic page layouts. This issue will be fixed by the end of the week, after the design is updated with new mobile layouts, dropdown menus and hover button styles. Next week, the focus will be on SSO functionality via Microsoft Entra and integration with the backend.
 
 ## Backend
 
