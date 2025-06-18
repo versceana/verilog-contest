@@ -40,8 +40,6 @@ https://nodoser.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
 
 ### Frontend (Admin Panel)
 
-<video controls src="msedge_YIqeO7wvdU.mp4" title="Title"></video>
-
 - UI based on static data was created (see more in personal contribution).
 
 ### Backend (Admin Panel)
