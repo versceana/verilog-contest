@@ -130,7 +130,7 @@ During last week Sign-Up process (adding Roles, Skills, Project position, and Pe
 
 [🔗 Link to User Flow](https://www.figma.com/board/se6mmoDbUnNADLcPqSszQE/TeamSync-sys-design?node-id=0-1&t=Mak6NzMutwl0n0Nf-1)
 
-![User flow](https://github.com/mnkhmtv/project-screenshots/blob/main/week2/user_flow.png)
+![User flow](https://github.com/mnkhmtv/project-screenshots/blob/main/week2/user_flow.png?raw=true)
 
 [🔗 Link to Design](https://www.figma.com/design/H76U45VUArQSuD5ev0anDV/TeamSync-Design?node-id=0-1&t=eFfwdjWTMholcFaF-1)
 
@@ -148,19 +148,21 @@ During the last week we developed initial database scheme [TS-36] and wrote liqu
 
 During the week we faced some problems, related to overall architecture and contracts, but we spoke about it together and decided to do it how it done now. The biggest problem was about filtering recommendation that were calculated by ML services. It was not clear what services should do it and how (backend or ML services). We decided to leave that feature and return to it later, but anyways, during the discussion , there were some important notes and takes related to the problem and we will definitely return to them later!
 
+You can check out services’ api’s at the back/*some service* directory in our github repository. Some of them are RestAPI conrtacts (api.yaml), written in openApi format and can be viewed at online swagger editor, others are *.proto gRPC contracts
+
 [🔗 Page “how to work with SSO”](https://www.notion.so/SSO-210c1c5fc56980f294fdf65cb817ed65?pvs=21)
 
 [🔗 Link to the Backend architecture](https://www.figma.com/board/se6mmoDbUnNADLcPqSszQE/TeamSync-sys-design?node-id=0-1&t=Mak6NzMutwl0n0Nf-1)
 
-![Backend Architecture](https://github.com/mnkhmtv/project-screenshots/blob/main/week2/system%20architecture.png)
+![Backend Architecture](https://github.com/mnkhmtv/project-screenshots/blob/main/week2/system%20architecture.png?raw=true)
 
 [🔗 Link to ER diagram](https://www.figma.com/board/se6mmoDbUnNADLcPqSszQE/TeamSync-sys-design?node-id=0-1&t=Mak6NzMutwl0n0Nf-1)
 
-![ER Diagram](https://github.com/mnkhmtv/project-screenshots/blob/main/week2/er_diagram.png)
+![ER Diagram](https://github.com/mnkhmtv/project-screenshots/blob/main/week2/er_diagram.png?raw=true)
 
 [🔗 Link to Tables](https://www.figma.com/board/se6mmoDbUnNADLcPqSszQE/TeamSync-sys-design?node-id=0-1&t=Mak6NzMutwl0n0Nf-1) 
 
-![tables](https://github.com/mnkhmtv/project-screenshots/blob/main/week2/tables.png)
+![tables](https://github.com/mnkhmtv/project-screenshots/blob/main/week2/tables.png?raw=true)
 
 ## ML
 
@@ -172,7 +174,7 @@ During the last week, we discussed baseline models and project architecture [TS-
 
 [🔗 Link to ML architecture](https://www.figma.com/board/se6mmoDbUnNADLcPqSszQE/TeamSync-sys-design?node-id=0-1&t=Mak6NzMutwl0n0Nf-1)
 
-![ML architecture](https://github.com/mnkhmtv/project-screenshots/blob/main/week2/ml_arch.png)
+![ML architecture](https://github.com/mnkhmtv/project-screenshots/blob/main/week2/ml_arch.png?raw=true)
 
 # **Weekly commitments**
 
@@ -196,7 +198,6 @@ During the last week, we discussed baseline models and project architecture [TS-
 - Enhance the user interface by adding button animations for both default and active (pressed) states
 - Explore and evaluate pagination approaches for handling long project or user lists on the frontend
 - Configure Nginx on the backend to manage routing and API gateway functionality
-- Begin working on the mobile version of the user interface
 - Hold a meeting with potential customers and/or stackeholders
 
 **Confirmation of the code's operability**
