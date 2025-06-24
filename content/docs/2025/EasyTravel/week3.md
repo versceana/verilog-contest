@@ -73,13 +73,19 @@ The **Qwen2.5-3B-Instruct** model was used to enrich POI descriptions, adding at
  - Participated in data pipeline development and DLS tasks.
  - Contributed to the overall data enrichment strategy.
 
+   (https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/16dddc362b5f3a2f5803b813a8a15959dac48c0b)
+
+   (https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/93ec93750f93c4e933b45556ca6872ff3e7b0d41)
+
 ### Vladislav Galkin
 
  - Fully developed frontend interface using React/Next.js and Tailwind UI.
  - Prepared frontend for smooth API integration.
  - Ensured UI consistency and readiness for functional testing.
-   https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/e278a5eba8cebfb60893deeb49c5bce91d4ec134
 
+   (https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/e278a5eba8cebfb60893deeb49c5bce91d4ec134)
+
+   (https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/94a4ef1613ada681a7bb07de2251d8c6349676b6)
 
 ## Plan for Next Week
 
