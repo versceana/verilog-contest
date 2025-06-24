@@ -34,15 +34,15 @@ The following MVP features have been implemented to date:
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | KGMA Library. Type: library | The KGMA Library is a cozy and calm place, ideal for students and researchers. Here you will find an extensive selection of educational and scientific materials, comfortable reading and working areas, and friendly staff ready to assist you in selecting the necessary literature.|
 
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
-![img_8.png](img_8.png)
-![img_3.png](img_3.png)
-![img_4.png](img_4.png)
-![img_5.png](img_5.png)
-![img_6.png](img_6.png)
-![img_7.png](img_7.png)
+![img.png](static/img.png)
+![img_1.png](static/img_1.png)
+![img_2.png](static/img_2.png)
+![img_8.png](static/img_8.png)
+![img_3.png](static/img_3.png)
+![img_4.png](static/img_4.png)
+![img_5.png](static/img_5.png)
+![img_6.png](static/img_6.png)
+![img_7.png](static/img_7.png)
 
 ## ML
 
