@@ -50,7 +50,11 @@
 
 
 ## Demonstration of the working MVP
-
+![](img/MVP_Demo_Screenshot_1.jpg)
+![](img/MVP_Demo_Screenshot_2.jpg)
+![](img/MVP_Demo_Screenshot_3.jpg)
+![](img/MVP_Demo_Screenshot_4.jpg)
+![](img/MVP_Demo_Screenshot_5.jpg)
 
 ## ML
 
