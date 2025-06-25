@@ -65,7 +65,7 @@ But don't forget to pass your Telegram bot's secret token in `.env`.
       <td>
         <ul>
           <li>Code refactoring (https://github.com/Endpool/CookCookhNya-frontend/pull/12)</li>
-          <li>View of recipes suggestions (https://github.com/Endpool/CookCookhNya-frontend/pull/34)</li>
+          <li>View of recipes suggestions (API client + suggestions list + recipe details view) (https://github.com/Endpool/CookCookhNya-frontend/pull/34)</li>
           <li>Fixes (https://github.com/Endpool/CookCookhNya-frontend/pull/36)</li>
         </ul>
       </td>
