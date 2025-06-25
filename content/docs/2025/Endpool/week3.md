@@ -20,20 +20,22 @@ Here is the full list of implemented features:
 
 ## Demonstration of the working MVP
 
-*Screenshots/GIFs/PDF presentation/Videos demonstrating the working MVP*
+Here: [https://github.com/Endpool/Endpool/blob/static-files/static/2025/Endpool/MVP_demo.mp4](https://github.com/Endpool/Endpool/blob/static-files/static/2025/Endpool/MVP_demo.mp4)
 
 ## Local testing
 
 The code can be run via `docker compose`.
 
-Go to https://github.com/Endpool/CookCookhNya-backend and execute the following commands to run the backend.
+Go to [https://github.com/Endpool/CookCookhNya-backend](https://github.com/Endpool/CookCookhNya-backend) 
+and execute the following commands to run the backend.
 API information will be available in Swagger on `localhost:8080/docs`
 ```bash
 cp .env.example .env
 docker compose up --build
 ```
 
-Go to https://github.com/Endpool/CookCookhNya and execute the same commands to run the whole application.
+Go to [https://github.com/Endpool/CookCookhNya](https://github.com/Endpool/CookCookhNya) 
+and execute the same commands to run the whole application.
 But don't forget to pass your Telegram bot's secret token in `.env`.
 
 # Weekly commitments
@@ -85,10 +87,9 @@ But don't forget to pass your Telegram bot's secret token in `.env`.
       <td>Daniel Gevorgyan (UI/UX + backend)</td>
       <td>
         <ul>
-          <li>User flow for MVP - continuation (https://drive.google.com/file/d/11GG-1Zkb08G6oUfG3i96zQeqhZAHwI4l/view?usp=sharing)
+          <li>User flow for MVP - continuation ([https://github.com/Endpool/Endpool/blob/be189359c350e57a2e4f743718aeedf80582138a/static/2025/Endpool/MVP_userflow.pdf?raw=true](https://github.com/Endpool/Endpool/blob/be189359c350e57a2e4f743718aeedf80582138a/static/2025/Endpool/MVP_userflow.pdf?raw=true))
           <li>Code refactoring (https://github.com/Endpool/CookCookhNya-backend/pull/12)</li>
           <li>Use of .env (https://github.com/Endpool/CookCookhNya-backend/pull/13)</li>
-          <li>Docker composes for development purposes (https://github.com/Endpool/CookCookhNya-backend/pull/27/files)</li>
           <li>Code refactoring 2 (https://github.com/Endpool/CookCookhNya-backend/pull/28)</li>
           <li>Fixes and refactoring (https://github.com/Endpool/CookCookhNya-backend/pull/30)</li>
           <li>Managing a storage's members (https://github.com/Endpool/CookCookhNya-backend/pull/31)</li>
@@ -117,6 +118,7 @@ But don't forget to pass your Telegram bot's secret token in `.env`.
       <td>Rashid Badamshin (DevOps)</td>
       <td>
         <ul>
+          <li>Docker composes for development purposes (https://github.com/Endpool/CookCookhNya-backend/pull/27)</li>
           <li>Updated CI/CD to be efficient and use newer versions of linter and formatter (https://github.com/Endpool/CookCookhNya-frontend/pull/26)</li>
           <li>Added database to Docker compose (https://github.com/Endpool/CookCookhNya/pull/28 & https://github.com/Endpool/CookCookhNya/pull/29)</li>
         </ul>
@@ -129,6 +131,10 @@ But don't forget to pass your Telegram bot's secret token in `.env`.
 
 - Finish refactoring
 - Cover backend with tests
+- Improve frontend UI (buttons layout, emoji, etc.)
+- Recipe details view
+- Global search of ingredients via inline query
+- Ability to create custom recipes (and pull request them)
 
 ## Confirmation of the code's operability
 
