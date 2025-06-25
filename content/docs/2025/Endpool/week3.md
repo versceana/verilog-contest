@@ -20,7 +20,7 @@ Here is the full list of implemented features:
 
 ## Demonstration of the working MVP
 
-Here: [https://github.com/Endpool/Endpool/blob/static-files/static/2025/Endpool/MVP_demo.mp4](https://github.com/Endpool/Endpool/blob/static-files/static/2025/Endpool/MVP_demo.mp4)
+Here: [https://github.com/Endpool/Endpool/blob/static-files/static/2025/Endpool/MVP_demo.mp4?raw=true](https://github.com/Endpool/Endpool/blob/static-files/static/2025/Endpool/MVP_demo.mp4?raw=true)
 
 ## Local testing
 
@@ -87,7 +87,7 @@ But don't forget to pass your Telegram bot's secret token in `.env`.
       <td>Daniel Gevorgyan (UI/UX + backend)</td>
       <td>
         <ul>
-          <li>User flow for MVP - continuation ([https://github.com/Endpool/Endpool/blob/be189359c350e57a2e4f743718aeedf80582138a/static/2025/Endpool/MVP_userflow.pdf?raw=true](https://github.com/Endpool/Endpool/blob/be189359c350e57a2e4f743718aeedf80582138a/static/2025/Endpool/MVP_userflow.pdf?raw=true))
+          <li>User flow for MVP - continuation (<a href="https://github.com/Endpool/Endpool/blob/be189359c350e57a2e4f743718aeedf80582138a/static/2025/Endpool/MVP_userflow.pdf?raw=true">https://github.com/Endpool/Endpool/blob/be189359c350e57a2e4f743718aeedf80582138a/static/2025/Endpool/MVP_userflow.pdf?raw=true</a>) </li>
           <li>Code refactoring (https://github.com/Endpool/CookCookhNya-backend/pull/12)</li>
           <li>Use of .env (https://github.com/Endpool/CookCookhNya-backend/pull/13)</li>
           <li>Code refactoring 2 (https://github.com/Endpool/CookCookhNya-backend/pull/28)</li>
