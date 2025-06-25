@@ -11,7 +11,7 @@ title: "Week #3"
 * **Start**: User visits **Main Page**
 * **Views**: **List of Contests** → **Contest Page**
 * **Personal Dashboard**: Personal account view
-* *(Submission button integration pending)*
+* **Submission user's solution**
 
 ### 2. MVP features
 | Category           | Feature                                               | PR / Commit              |
@@ -27,8 +27,7 @@ title: "Week #3"
 
 
 ## Demonstration of the working MVP
-
-_Screenshots/GIFs/PDF presentation/Videos demonstrating the working MVP_
+ [Demo video on google drive](https://drive.google.com/file/d/1Z-bZad2_4bDh9DcbkoxOxJVZvunxscqz/view?usp=sharing)
 
 ## Internal demo
 
@@ -41,7 +40,7 @@ _Screenshots/GIFs/PDF presentation/Videos demonstrating the working MVP_
   * Runner: functional
   * Runner: in process
   * CI/CD: staticcheck errors need fixes
-  * Frontend: basic UI ready; Submit button & Results page pending
+  * Frontend: basic UI ready
 * **Action Items:**
 
   1. Backend: Runner-Manager integration into API flow
@@ -68,5 +67,5 @@ In Week #4, we will integrate the Submit into the frontend and develop the Resul
 
 We confirm that the code in the main branch:
 
-- [ ] In working condition.
-- [ ] Run via docker-compose (or another alternative described in the `README.md`).
+- [✔] In working condition.
+- [✔] Run via docker-compose.
