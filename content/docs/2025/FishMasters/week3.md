@@ -6,7 +6,7 @@ title: "Week #3"
 
 ## Implemented MVP features
 
-- User login and registration, [PR](https://github.com/IU-Capstone-Project-2025/FishMasters/pull/62)
+- User login and registration, [PR](https://github.com/IU-Capstone-Project-2025/FishMasters/pull/43)
 - Name of the profile, [PR](https://github.com/IU-Capstone-Project-2025/FishMasters/pull/62)
 - Picture in the profile, [PR](https://github.com/IU-Capstone-Project-2025/FishMasters/pull/62)
 
