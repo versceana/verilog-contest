@@ -51,6 +51,8 @@ title: "Week #3"
 
 **Video demonstrating the working airflow:** [Link](https://drive.google.com/file/d/12dB2fDw0xZnjCmIe2suwLhnL3ZEbrYDR/view?usp=sharing)
 
+**Video demonstrating the connection between LDAP and Keycloak for authorization:** [Link](https://drive.google.com/file/d/1ssLXgtIZPWdcSrpa8z8cKkkJ14basXkK/view?usp=sharing)
+
 ![Title_page](https://raw.githubusercontent.com/ElinaNotElina/IU-Capstone-Project-2025/refs/heads/main/title-page.png)
 ![Catalog](https://raw.githubusercontent.com/ElinaNotElina/IU-Capstone-Project-2025/refs/heads/main/catalog.png)
 ![Book-info](https://raw.githubusercontent.com/ElinaNotElina/IU-Capstone-Project-2025/refs/heads/main/book-info.png)
