@@ -74,8 +74,8 @@ But don't forget to pass your Telegram bot's secret token in `.env`.
       <td>Amirkhan Kurbanov (frontend)</td>
       <td>
         <ul>
-          <li>Handle registration of users (https://github.com/Endpool/CookCookhNya-frontend/pull/27)</li>
-          <li>Fixes (https://github.com/Endpool/CookCookhNya-frontend/pull/29)</li>
+          <li>Handle registration of users (API client + handler) (https://github.com/Endpool/CookCookhNya-frontend/pull/27)</li>
+          <li>Fixes and refactor (https://github.com/Endpool/CookCookhNya-frontend/pull/29 & https://github.com/Endpool/CookCookhNya-frontend/commit/4d036b0430a470208b1709b3e834c877680d5806 & https://github.com/Endpool/CookCookhNya-frontend/commit/55745f9f6ac6bd14914bb197b3d5ce6e8021d494)</li>
           <li>Selection of storages for recipes search (https://github.com/Endpool/CookCookhNya-frontend/pull/33)</li>
           <li>Translated interface to Russian (https://github.com/Endpool/CookCookhNya-frontend/pull/35)</li>
         </ul>
