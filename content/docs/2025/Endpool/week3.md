@@ -21,6 +21,7 @@ Here is the full list of implemented features:
 ## Demonstration of the working MVP
 
 Here: [https://github.com/Endpool/Endpool/blob/static-files/static/2025/Endpool/MVP_demo.mp4?raw=true](https://github.com/Endpool/Endpool/blob/static-files/static/2025/Endpool/MVP_demo.mp4?raw=true)
+(Probably you will need to refresh the page or explicitly copy the link to download the file)
 
 ## Local testing
 
