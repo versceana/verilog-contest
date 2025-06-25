@@ -37,7 +37,7 @@
 
 ## **Demonstration of the working MVP**
 
-Link to the video 
+[Link to the video](https://drive.google.com/drive/folders/1SdpeE8VrxILX4vvuD1bGbwB2zZ1zWtPQ?usp=sharing)
 
 
 ## **ML**
