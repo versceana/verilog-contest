@@ -37,7 +37,8 @@
 
 ## **Demonstration of the working MVP**
 
-*Screenshots/GIFs/PDF presentation/Videos demonstrating the working MVP*
+Link to the video 
+
 
 ## **ML**
 
@@ -62,8 +63,7 @@ Looking back at this sprint, we weren’t able to implement all of the planned u
 | Daria Alexandrova | [Microsoft entra initialization](https://github.com/IU-Capstone-Project-2025/team-sync/pull/20), [project view page created](https://github.com/IU-Capstone-Project-2025/team-sync/pull/26),  | TS-81, TS-65, TS-82, TS-80 |
 | Stepan Dementev | [Initial auth service](https://github.com/IU-Capstone-Project-2025/team-sync/pull/21), [Initial recommendations service](https://github.com/IU-Capstone-Project-2025/team-sync/pull/27), [nginx set up](https://github.com/IU-Capstone-Project-2025/team-sync/pull/31), bugfixes | TS-64, TS-86, TS-54, TS-59, TS-104, TS-107, TS-106 |
 | Elizaveta Zagurskih | [Project service created](https://github.com/IU-Capstone-Project-2025/team-sync/pull/23), completed API for resume service,  | TS-58, TS-52, TS-93, TS-94, TS-95, TS-96, TS-97, TS-98, TS-105 |
-| Kamilya Shakirova | Database migrations
-(*she was mostly sick and still sick, legal excuse will be provided)* | TS-57 |
+| Kamilya Shakirova | Database migrations (*she was mostly sick and still sick, legal excuse will be provided)* | TS-57 |
 
 ## **Plan for Next Week**
 
