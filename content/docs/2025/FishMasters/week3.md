@@ -53,7 +53,7 @@ Stepan Vagin:
 Kostya Zimin:
 - fix db migrations and add liquibase, [PR](https://github.com/IU-Capstone-Project-2025/FishMasters/issues/57)
 - refactor all controllers for useful explanation in swagger and create API contract, [PR](https://github.com/IU-Capstone-Project-2025/FishMasters/issues/55)
-- fix all methods in service part and add more exceptions, [PR_3](https://github.com/IU-Capstone-Project-2025/FishMasters/issues/58) 
+- fix all methods in service part and add more exceptions, [PR](https://github.com/IU-Capstone-Project-2025/FishMasters/issues/58) 
 - fix sql codes, db relationships and docker-compose file for back part
 
 Ivan Vasiliev:
