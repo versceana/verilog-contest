@@ -9,23 +9,19 @@
     Given I return to “My projects”, then I can see, edit, or delete my posted project.
     > 
     
-    **Implemented**
-    
-    | what is done | PR (link) | Jira task |
+    | Implemented | PR (link) | Jira task |
     | --- | --- | --- |
-    | Authorized user can create a project, choose skills and roles needed, add name, description of the project, optional link to project description.  | [https://github.com/IU-Capstone-Project-2025/team-sync/pull/23](https://github.com/IU-Capstone-Project-2025/team-sync/pull/23) |  |
-    |  |  |  |
+    | Authorized user can create a project, choose skills and roles needed, add title, status, description of the project, optional link to project description.  | [https://github.com/IU-Capstone-Project-2025/team-sync/pull/23](https://github.com/IU-Capstone-Project-2025/team-sync/pull/23) | TS-105 (backend), TS-96 (backend) |
+    | Authorized user can view the projects they created. | [https://github.com/IU-Capstone-Project-2025/team-sync/pull/23](https://github.com/IU-Capstone-Project-2025/team-sync/pull/23) | TS-94 (backend), TS-96 (backend) |
 2. As a student, I want to apply to projects that match my interests, so that I can participate in projects relevant to my skills and goals.
     
     > Given I see a project in the feed, when I click “Apply,” then I can submit the request.
     Given I applied to a project, then I can see my application status in the “My responses” tab.
     > 
     
-    **Implemented**
-    
-    | what is done | PR (link) | Jira task |
+    | Implemented | PR (link) | Jira task |
     | --- | --- | --- |
-    |  |  |  |
+    | Authorised users can apply to projects. They can see all their applications with their status at some page. | [https://github.com/IU-Capstone-Project-2025/team-sync/pull/23](https://github.com/IU-Capstone-Project-2025/team-sync/pull/23) | TS-98 (backend) |
     |  |  |  |
     
 3. As a student, I want to see suggestions and filters when browsing projects, so that I can efficiently choose which projects to join.
@@ -33,11 +29,9 @@
     > Given I open the project feed, then I see filters like tech stack and tag.
     > 
     
-    **Implemented**
-    
-    | what is done | PR (link) | Jira task |
+    | Implemented | PR (link) | Jira task |
     | --- | --- | --- |
-    |  |  |  |
+    | On Home Page user can see all projects and can filter them with course, roles, and skills. | [https://github.com/IU-Capstone-Project-2025/team-sync/pull/23](https://github.com/IU-Capstone-Project-2025/team-sync/pull/23) | TS-93 (backend) |
     |  |  |  |
 
 ## **Demonstration of the working MVP**
@@ -64,7 +58,7 @@ Internal Demo & Feedback: Conduct an internal team demo of the current state. Id
 | Danis Sharafiev | [Dataset synthesis](https://github.com/IU-Capstone-Project-2025/team-sync/pull/17), [add connection with Database](https://github.com/IU-Capstone-Project-2025/team-sync/pull/18), [KeyDB and Airflow containers added](https://github.com/IU-Capstone-Project-2025/team-sync/pull/19), [dummy recommendation system](https://github.com/IU-Capstone-Project-2025/team-sync/pull/25),  | TS-70, TS-71, TS-84, TS-73, TS-87 |
 | Daria Alexandrova | [Microsoft entra initialization](https://github.com/IU-Capstone-Project-2025/team-sync/pull/20), [project view page created](https://github.com/IU-Capstone-Project-2025/team-sync/pull/26),  | TS-81, TS-65, TS-82, TS-80 |
 | Stepan Dementev | [Initial auth service](https://github.com/IU-Capstone-Project-2025/team-sync/pull/21),  | TS-64, TS-86,  |
-| Elizaveta Zagurskih | [Project service created](https://github.com/IU-Capstone-Project-2025/team-sync/pull/23), completed API for resume service,  | TS-58, TS-52, TS-93, TS-94, TS-95, TS-96, TS-97, TS-98 |
+| Elizaveta Zagurskih | [Project service created](https://github.com/IU-Capstone-Project-2025/team-sync/pull/23), completed API for resume service,  | TS-58, TS-52, TS-93, TS-94, TS-95, TS-96, TS-97, TS-98, TS-105 |
 | Kamilya Shakirova | Database migrations
 (*she was mostly sick and still sick, legal excuse will be provided)* | TS-57 |
 
