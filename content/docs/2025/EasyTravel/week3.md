@@ -87,6 +87,15 @@ The **Qwen2.5-3B-Instruct** model was used to enrich POI descriptions, adding at
 
    (https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/94a4ef1613ada681a7bb07de2251d8c6349676b6)
 
+
+### Saidaziz Kadirov 
+   - Added files for the deployment
+   - Docker files created
+   - Ready for the versel deployment
+   (https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/61c62eef9f67078fb792f8d7ce80417950510b7f)
+
+   (https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/2cd8f147a2ccb25c9bdb33e7842007d3cc04a7b7)
+
 ## Plan for Next Week
 
 * Complete dataset enrichment.
