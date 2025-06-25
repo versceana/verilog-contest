@@ -85,7 +85,7 @@ But don't forget to pass your Telegram bot's secret token in `.env`.
       <td>Daniel Gevorgyan (UI/UX + backend)</td>
       <td>
         <ul>
-          <li>User flow for MVP - continuation (/2025/Endpool/MVP_userflow.pdf)
+          <li>User flow for MVP - continuation (https://drive.google.com/file/d/11GG-1Zkb08G6oUfG3i96zQeqhZAHwI4l/view?usp=sharing)
           <li>Code refactoring (https://github.com/Endpool/CookCookhNya-backend/pull/12)</li>
           <li>Use of .env (https://github.com/Endpool/CookCookhNya-backend/pull/13)</li>
           <li>Docker composes for development purposes (https://github.com/Endpool/CookCookhNya-backend/pull/27/files)</li>
