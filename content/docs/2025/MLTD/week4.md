@@ -65,3 +65,4 @@ Bulat:
 We confirm that the code in the main branch:
 - Is in working condition.
 - Can run via docker compose and other alternatives mentioned in README.md.
+  
