@@ -26,8 +26,6 @@ The CI/CD pipeline is built with GitHub Actions, triggered by PRs to main, pushe
 
 **4. Push images:** Authenticate to GHCR, build & push Docker images for all services
 
-Challenges faced: intermittent port conflicts in compose tests and occasional flakiness in Postman collection runs, both mitigated by pre-test cleanup scripts.
-
 
 
 ### Links to CI/CD configuration files
@@ -48,23 +46,25 @@ Currently, our production environment is hosted on a single VPS (ICD club server
 
 - **Compose deployment:** The server pulls images from GHCR and runs docker-compose to update services.
 
- - **DNS & SSL:** The domain is **https://platform.innochipdesign.ru/**.
+ - **DNS:** The domain is **https://platform.innochipdesign.ru/**.
 
 ## Vibe Check
 
-*Facilitate a team health check. Discuss progress, roadblocks, and team dynamics. Ensure everyone feels heard.*
+- **Resources & Expertise:** Team generally has sufficient capacity, though Diana feels she needs deeper backend guidance for faster frontend integration.
+- **Blockers:** Task distribution and management could be streamlined for clearer ownership.
+- **Team Value:** All members acknowledge their contributions.
 
 # Weekly commitments
 
 ## Individual contribution of each participant
 
-| Team Member            | Week #2 Contributions                                                                      |
-| ---------------------- | ------------------------------------------------------------------------------------------ |
-| **Mikhail Panteleev**  | Social communication for finding server (+ domen + ssl), initial service and bugs fix in backend, hard thinking about jadger parser, deploy.                       |
-| **Vladislav Merkulov** | Runner integration into system, testing.                       |
+| Team Member            | Week #2 Contributions                                                                      | Commits| 
+| ---------------------- | ------------------------------------------------------------------------------------------ | ----------------------|
+| **Mikhail Panteleev**  | Social communication for finding server (+ domen), initial service and bugs fix in backend, hard thinking about jadger parser, deploy.                       | [db6086f](https://github.com/IU-Capstone-Project-2025/verilog-contest/commit/db6086f5fba1f8f33c6293805b3c128b6ed54334), [062f3bc](https://github.com/IU-Capstone-Project-2025/verilog-contest/commit/062f3bcd11bc41ad3c8b70a89cffe9aaa8a67ebf), [aa54f9f](https://github.com/IU-Capstone-Project-2025/verilog-contest/commit/aa54f9f558415d8cdade189205b199f5280b1c31)
+| **Vladislav Merkulov** | Runner integration into system, testing.                       | [8af80eb](https://github.com/IU-Capstone-Project-2025/verilog-contest/commit/8af80eb5319c486b3821b6f58d15828b77d446ca), [fb4008d](https://github.com/IU-Capstone-Project-2025/verilog-contest/commit/fb4008d8f561c514bee4c4be9bde82a48a351db4) |
 | **Aleksei Fominykh**   | Developing Judger parser, staging, kuber.                                         |
-| **Sofia Kulagina**     | CI/CD using docker-compose instead of build and pushing in GitHub container, initial service in CI/CD.             |
-| **Diana Yakupova**     | Meeting organization, report, backend api in contest components, configure api in api client with auth.|
+| **Sofia Kulagina**     | CI/CD using docker-compose instead of build and pushing in GitHub container, initial service in CI/CD.             | [bcc9ad5](https://github.com/IU-Capstone-Project-2025/verilog-contest/commit/bcc9ad51ce4dfc9e025068e9f5f96666ba2ec22e)|
+| **Diana Yakupova**     | Meeting organization, report, backend api in contest components, configure api in api client with auth.| [a03c80e](https://github.com/IU-Capstone-Project-2025/verilog-contest/commit/a03c80e09087f9f571e8b822f71a164a3a7c6890)|
 
 
 ## Plan for Next Week
@@ -75,4 +75,4 @@ In Week #5, our goal is to finilize testing, provide more backend API in fronten
 
 We confirm that the code in the main branch:
 - [✔] In working condition.
-- [✔] Run via docker-compose (or another alternative described in the `README.md`).
+- [✔] Run via docker-compose.
