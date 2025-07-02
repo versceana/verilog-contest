@@ -35,7 +35,7 @@ However, Paramon can run the project using docker compose on his linux server be
 
 ### Team Health check
 - Paramon: "I am doing ok, but it is kind of hard to get some things done on time each week since we only have two people in our team. Overall, the project is not as hard as I initally thought it would be and I am impressed how far we have gone in the first four weeks."
-- Boulat: ""
+- Bulat: "I feel tired since I had other projects and we only have two people in our MLTD team. Not everything can be completed on time, but I think it will be easier starting next week, since some courses will already be over."
 
 ### Progress:
 So far from three weeks of work we have a:
@@ -56,8 +56,9 @@ Paramon:
 - Created [tests](https://github.com/IU-Capstone-Project-2025/MLTD/commit/a5571c70dea95cf55aa594e0e1539dee58b082e6) for the frontend and backend.
 - Created CI pipelines (see section CI/CD) for the frontend and backend.
 
-Boulat:
-
+Bulat:
+- Created parser for BGL log files
+- Preprocessed data and trained the Bert model
 ## Plans for next week
 
 ## Confirmation of code operability
