@@ -99,6 +99,7 @@ Last week, one of the team members faced challenges with the parser implementati
   
 - **Timur Garifullin**:
     - Refactored environment variable handling, improved code readability, and fixed import and syntax issues in backend [Link to PR](https://github.com/IU-Capstone-Project-2025/Recommendation-System/pull/39)
+    - Enchanced auth system by handling tokens and user data in correct way. Implemented DB stored books display on catalog page. [Link to PR](https://github.com/IU-Capstone-Project-2025/Recommendation-System/pull/48/)
 
 
 - **Grigorii Belyaev**:
