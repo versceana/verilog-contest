@@ -57,7 +57,7 @@ Paramon:
 - Created CI pipelines (see section CI/CD) for the frontend and backend.
 
 Bulat:
-- Created parser for BGL log files
+- Created [parser for BGL log files](https://github.com/IU-Capstone-Project-2025/MLTD/commit/eb1c83527dd6acde6181298c0b95713614477282)
 - Preprocessed data and trained the Bert model
 ## Plans for next week
 
